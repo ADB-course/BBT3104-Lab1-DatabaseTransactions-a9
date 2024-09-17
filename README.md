@@ -4,7 +4,13 @@
 
 | **Key**                                                               | Value                                                                                                                                                                              |
 |---------------|---------------------------------------------------------|
-| **Group Name**                                                               | ? |
+| **Group Name** 
+    A9
+    -George Karanja
+    -Carson Baraka
+    -John Gitu
+    -Mike Oruta
+    -Dani Abud                                                              | ? |
 | **Semester Duration**                                                 | 19<sup>th</sup> August - 25<sup>th</sup> November 2024                                                                                                                       |
 
 ## Flowchart
