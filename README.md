@@ -14,6 +14,8 @@
 | **Semester Duration**                                                 | 19<sup>th</sup> August - 25<sup>th</sup> November 2024                                                                                                                       |
 
 ## Flowchart
+[flowchart Lab1.docx](https://github.com/user-attachments/files/17083511/flowchart.Lab1.docx)
+
 
 ## Pseudocode
 BEGIN
